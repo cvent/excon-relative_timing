@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "addressable", '~> 2.3'
 
   # Needed to verify API of statsd client test doubles.
-  spec.add_development_dependency "statsd-ruby", "~> 1.4.0"
+  spec.add_development_dependency "statsd-ruby", "~> 1.5.0"
 
   spec.add_development_dependency "bundler", "~> 1.8"
   spec.add_development_dependency "pry", "~> 0.10"
