@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry-nav", "~> 0.2"
   spec.add_development_dependency "rspec", "~> 3.7"
   spec.add_development_dependency "rspec-collection_matchers", "~> 1.1"
-  spec.add_development_dependency "simplecov", "~> 0.16"
+  spec.add_development_dependency "simplecov", "~> 1.0"
 end
 
